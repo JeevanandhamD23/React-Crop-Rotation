@@ -23,7 +23,7 @@ To get started with this project locally, follow these steps:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/react-crop-rotation.git
+git clone 
 ````
 
 ### 2. Navigate to the project folder
@@ -100,7 +100,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by \[Your Name]
+Made with ❤️ by JEEVANANDHAMD
 
 ```
 
@@ -113,7 +113,7 @@ Made with ❤️ by \[Your Name]
 - **Usage Instructions**: Code examples and explanations of how to use the cropping and rotation features.
 - **Tech Stack**: A list of the libraries and technologies used in the project.
 - **License**: Details on the licensing of the project (MIT in this case).
-- **Credits**: Optionally, you can credit yourself as the author at the end.
+- **Credits**: JEEVANANDHAM D.
 
 Feel free to modify the file to include more details as necessary or adjust the style! Let me know if you need any changes or additions.
 ```
